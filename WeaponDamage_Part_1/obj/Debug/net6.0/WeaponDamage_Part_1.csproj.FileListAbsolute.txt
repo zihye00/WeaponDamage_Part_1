@@ -1,0 +1,14 @@
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\bin\Debug\net6.0\WeaponDamage_Part_1.exe
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\bin\Debug\net6.0\WeaponDamage_Part_1.deps.json
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\bin\Debug\net6.0\WeaponDamage_Part_1.runtimeconfig.json
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\bin\Debug\net6.0\WeaponDamage_Part_1.dll
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\bin\Debug\net6.0\WeaponDamage_Part_1.pdb
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.AssemblyInfoInputs.cache
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.AssemblyInfo.cs
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.csproj.CoreCompileInputs.cache
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.dll
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\refint\WeaponDamage_Part_1.dll
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.pdb
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\WeaponDamage_Part_1.genruntimeconfig.cache
+D:\01 코딩, Unity공부\00 HeadMasterBook\HeadMaster VisualStudioApp\WeaponDamage_Part_1\WeaponDamage_Part_1\obj\Debug\net6.0\ref\WeaponDamage_Part_1.dll
